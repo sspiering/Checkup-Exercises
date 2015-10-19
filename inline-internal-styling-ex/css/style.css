@@ -1,0 +1,21 @@
+#logo {
+  border-radius: 100px;
+}
+        
+figure img {
+ box-shadow: 0 0 30px #333;
+}
+
+body {
+  background: cornflowerblue;
+}
+
+main {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.first {
+ font-style: italic;
+ font-size: 1.25em;
+}

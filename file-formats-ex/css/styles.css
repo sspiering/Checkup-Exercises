@@ -1,0 +1,25 @@
+/* Add `boo-ducks.jpg` to `.container` class */
+
+.container {
+  background: url(../img/boo-ducks.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*==============================*/
+/* DO NOT EDIT BELOW THIS LINE */
+/*==============================*/
+.container {
+	margin: 0 auto; 
+	height: 420px;
+	width: 720px;
+}
